@@ -1,0 +1,30 @@
+
+Actividad: Compra de paquetes de Turismo
+
+CLIENTE
+
+1.- Cliente visita la Agencia 
+    Cliente contacta Agente por redes sociales
+2.- Informacion de posibles destinos
+3.- Cliente selecciona tipo de servicio: privado, publico
+4.- Cliente selecciona destino
+5.- Cliente selecciona tipo de paquete: 1 día, 2 días, 3 días 
+6.- Cliente selecciona tipo de atención: A,B,C
+7.- Cliente selecciona  tipo de Transporte
+
+
+10.- Cliente paga el servicio
+
+ADMINISTRADOR
+
+
+1.- Selecciona personal: 
+    Guia
+    Personal de Apoyo y servicio 
+    Chofer
+
+
+
+
+
+
